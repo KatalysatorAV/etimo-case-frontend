@@ -1,0 +1,149 @@
+/* Margins */
+.m0 {
+  margin: 0;
+}
+.m1 {
+  margin: 1rem;
+}
+.m2 {
+  margin: 2rem;
+}
+.mtop0 {
+  margin-top: 0;
+}
+.mtop05 {
+  margin-top: 0.5rem;
+}
+.mbottom0 {
+  margin-bottom: 0;
+}
+.mtop1 {
+  margin-top: 1rem;
+}
+.mbottom1 {
+  margin-bottom: 1rem;
+}
+.mbottom05 {
+  margin-bottom: 0.5rem;
+}
+.mleft05 {
+  margin-left: 0.5rem;
+}
+.mleft1 {
+  margin-left: 1rem;
+}
+.mright05 {
+  margin-right: 0.5rem;
+}
+.mright1 {
+  margin-right: 1rem;
+}
+.mtop2 {
+  margin-top: 2rem;
+}
+.mbottom2 {
+  margin-bottom: 2rem;
+}
+
+/* Paddings */
+.p0 {
+  padding: 0;
+}
+.p1 {
+  padding: 1rem;
+}
+.p2 {
+  padding: 2rem;
+}
+.p3 {
+  padding: 3rem;
+}
+.p4 {
+  padding: 4rem;
+}
+.ptop0 {
+  padding-top: 0;
+}
+.pbottom0 {
+  padding-bottom: 0;
+}
+.ptop1 {
+  padding-top: 1rem;
+}
+.pbottom1 {
+  padding-bottom: 1rem;
+}
+.pleft1 {
+  padding-left: 1rem;
+}
+.ptop2 {
+  padding-top: 2rem;
+}
+.pbottom2 {
+  padding-bottom: 2rem;
+}
+.pleft2 {
+  padding-left: 2rem;
+}
+
+/* Flex/grid options */
+.flex {
+  display: flex;
+}
+
+.gap1 {
+  gap: 1rem;
+}
+.gap05 {
+  gap: 0.5rem;
+}
+
+.ac {
+  align-items: center;
+}
+
+.jc {
+  justify-content: center;
+}
+
+.jce {
+  justify-content: flex-end;
+}
+
+.jcsb {
+  justify-content: space-between;
+}
+
+.aife {
+  align-items: flex-end;
+}
+.aifs {
+  align-items: flex-start;
+}
+.asfe {
+  align-self: flex-end;
+}
+.asc {
+  align-self: center;
+}
+.jsc {
+  justify-self: center;
+}
+
+.jsfe {
+  justify-self: flex-end;
+}
+.fdc {
+  flex-direction: column;
+}
+
+/* Misc */
+.b {
+  font-weight: 700;
+}
+.c {
+  text-align: center;
+}
+.pointer {
+  cursor: pointer;
+}
